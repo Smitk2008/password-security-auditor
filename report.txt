@@ -1,0 +1,5 @@
+PASSWORD SECURITY REPORT
+Strength: Strong
+Entropy: 58.99 bits
+Dictionary Check: Safe
+Estimated Crack Time: Few Days
